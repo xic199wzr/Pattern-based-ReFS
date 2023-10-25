@@ -1,7 +1,8 @@
 # Pattern-based-ReFS
 
-## datasets used in the present study
-## Functional maps
+## Datasets used in the present study
+### Individual datasets
+### Functional maps
 
 ## Part 1: reliability, reproducibility, and sensitivity analysis
 
